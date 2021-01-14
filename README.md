@@ -9,7 +9,7 @@
 
 ## Description
 
-Pratice project created for Epicodus coding bootcamp. Practice introduction to bootstrap. Summarizes what class has learned over the past week.
+Pratice project created for Epicodus coding bootcamp. Practice introduction to Bootstrap. Summarizes what class has learned over the past week.
 
 ## License
 
